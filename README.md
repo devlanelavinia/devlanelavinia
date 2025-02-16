@@ -1,6 +1,7 @@
 # Hi there, I'm Dêvlane Lavínia! 👋
 
 🔍 **QA Engineer | Tech & Innovation Enthusiast | Agile & Automation | Process Optimization | Focused on QA Excellence**
+
 🚀 Passionate about optimizing digital experiences through **Quality Assurance** and **Automated Testing**. Currently transitioning to a career focused on **QA**, **test automation**, and **software quality**.
 
 🔧 I specialize in:  
